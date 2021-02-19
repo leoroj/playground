@@ -5,3 +5,5 @@ Det skall användas för att utveckla och testa processen kring samarbete där f
 Vi börjar med en fil och enbart en master-branch.
 
 Nu har en ny användare (leoroj) gjort en fork av detta repo och lagt på denna rad. Detta skedde i den forkade master-branchen.
+
+Och en ny rad från addline-branchen
